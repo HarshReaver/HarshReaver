@@ -53,6 +53,12 @@
   <img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,ubuntu" width="250" />
 </p>
 
+### 🛠️ **DevOps & Tools**  
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,githubpages,githubactions&perline=5"/>
+</p>
+
 ### 🤖 **AI Tools**  
 
 <p align="center">
