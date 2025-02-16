@@ -65,13 +65,13 @@
 
 <p align="center">
   <a href="mailto:harshkrish2323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&perline=3"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-verma-9aa095224/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=3"/>
   </a>
   <a href="https://twitter.com/TR-HarshVVVV">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x&perline=3"/>
   </a>
 </p> 
 
