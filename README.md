@@ -44,7 +44,7 @@
 ### 💻 **Languages & Frameworks**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,js" width="400" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,js,react.js" width="400" />
 </p>
 
 ### ☁️ **Cloud & Security**  
