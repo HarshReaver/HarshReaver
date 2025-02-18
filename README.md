@@ -26,7 +26,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=TR-HarshVVVV&show_icons=true&theme=radical" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=TR-HarshVVVV&theme=radical" />
+        <img src="https://streak-stats.demolab.com/?user=TR-HarshVVVV&theme=radical" onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=TR-HarshVVVV&theme=radical';" />
       </td>
     </tr>
     <tr>
@@ -36,6 +36,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
