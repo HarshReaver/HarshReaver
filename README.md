@@ -40,21 +40,17 @@
 ---
 
 ## 🛠️ Tech Stack & Tools  
-
-### 💻 **Languages & Frameworks**  
-
+### **Languages and Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,js,react.js" width="400" />
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,python,cpp,c,javascript,css,tailwindcss,bash,powershell,autocad,matlab,markdown,latex,postman,replit,npm,pycharm,pytorch,scikitlearn,dynamodb,cassandra,mysql,mongodb,stackoverflow,netlify,vercel,wordpress&theme=dark&perline=15" alt="My Skills" /></a>
 
-### ☁️ **Cloud & Security**  
 
+### ☁️ **Cloud & O.S.**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,linux,ubuntu" width="250" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,windows,kali,linux,ubuntu" />
 </p>
 
 ### 🛠️ **DevOps & Tools**  
-
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,githubpages,githubactions&perline=5"/>
 </p>
@@ -62,7 +58,7 @@
 ### 🤖 **AI Tools**  
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot,microsoftcopilot&perline=3"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot,microsoftcopilot&perline=3"/>
 </p>
 
 ---
