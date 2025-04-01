@@ -43,7 +43,7 @@
 ## 🛠️ Tech Stack & Tools  
 ### **Languages and Frameworks**
 <p align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,python,cpp,c,javascript,css,tailwindcss,bash,powershell,autocad,matlab,markdown,latex,postman,replit,npm,pycharm,pytorch,scikitlearn,dynamodb,cassandra,mysql,mongodb,stackoverflow,netlify,vercel,wordpress&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,python,cpp,c,javascript,css,tailwindcss,bash,powershell,autocad,matlab,markdown,latex,postman,replit,npm,pycharm,pytorch,scikitlearn,dynamodb,cassandra,mysql,mongodb,redis,stackoverflow,netlify,vercel,wordpress&theme=dark&perline=15" alt="My Skills" /></a>
 
 
 ### ☁️ **Cloud & O.S.**  
