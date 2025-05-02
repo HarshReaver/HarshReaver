@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/harsh-verma-9aa095224/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=3"/>
   </a>
-  <a href="https://x.com/RealHarsh_V">
+  <a href="https://x.com/RealHarsh_VV">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=x&perline=3"/>
   </a>
 </p> 
