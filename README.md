@@ -78,9 +78,9 @@
 
 ---
 
-### 🔥 Fun Fact  
-**"There are 10 types of people in the world: those who understand binary and those who don't."** 😆  
+### 🔥 Faxx 
+<div align="center">
+  "There are 10 types of people in the world: those who understand binary and those who don't."😂  
+</div>
 
 ---
-
-💡 _"Let's connect, collaborate, and innovate!"_ 🚀  
