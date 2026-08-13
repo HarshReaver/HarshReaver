@@ -2,14 +2,7 @@
 
 # Harsh Verma
 
-<p>
-  <a href="https://linkedin.com/in/harsh-verma-9aa095224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harshkrish2323@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/RealHarsh_VV"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/TR-HarshVVVV"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=A0AEC0&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%2F+Applied+Scientist;Machine+Learning+%7C+Data+Analysis+%7C+Cloud;Building+models%2C+not+just+running+them." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=A0AEC0&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%2F+ML+Engineer;Machine+Learning+%7C+Data+Analysis+%7C+Cloud;Building+models%2C+not+just+running+them." alt="Typing SVG" />
 
 </div>
 
@@ -31,7 +24,11 @@ I'm also a former **Beta Microsoft Learn Student Ambassador**, where I organized
 
 **Data Science & ML**
 
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn`
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 
 **Databases**
 
